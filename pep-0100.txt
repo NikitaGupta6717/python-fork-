@@ -401,6 +401,7 @@ components are expected to be available in memory.
                          Python will use the official U+FFFD
                          REPLACEMENT CHARACTER for the builtin Unicode
                          codecs.
+                         #nothing made changes just for na certificate.
         """
 
         def encode(self,input,errors='strict'):
